@@ -14,9 +14,6 @@ namespace Git_Learning
             Console.WriteLine("HI");
             Console.WriteLine("HI");
             Console.WriteLine("HI");
-
-            Console.WriteLine("HI");
-            Console.WriteLine("HI");
         }
     }
 }
