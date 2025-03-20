@@ -11,6 +11,9 @@ namespace Git_Learning
         static void Main(string[] args)
         {
             Console.WriteLine("HI");
+            Console.WriteLine("HI");
+            Console.WriteLine("HI");
+            Console.WriteLine("HI");
         }
     }
 }
